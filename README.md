@@ -17,7 +17,8 @@
 
 #### 2. Ảnh màn hình Chức năng thực thi / Kết quả
 
-<img width="812" height="509" alt="Screenshot 2026-10-17 135634" src="https://github.com/user-attachments/assets/31ce53ef-8144-4bba-ae68-3bc72a51f21a" />
+<img width="831" height="508" alt="Screenshot 2026-10-17 141715" src="https://github.com/user-attachments/assets/c94ef050-cf9d-4a88-bfa4-589807f376ac" />
+
 
 #### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
 <img width="828" height="466" alt="Screenshot 2026-10-17 135606" src="https://github.com/user-attachments/assets/b8f42fea-eba8-4c67-bf26-de724a339a17" />
