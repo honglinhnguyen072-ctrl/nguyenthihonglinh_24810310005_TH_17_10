@@ -1,4 +1,4 @@
-<img width="913" height="534" alt="Screenshot 2026-10-17 141238" src="https://github.com/user-attachments/assets/5df3036d-fa30-44aa-929d-a40a587f7198" /># BÁO CÁO BÀI TẬP / ĐỒ ÁN
+ BÁO CÁO BÀI TẬP / ĐỒ ÁN
 
 ## THÔNG TIN SINH VIÊN
 - **Họ và tên:** NGUYỄN THỊ HỒNG LINH
